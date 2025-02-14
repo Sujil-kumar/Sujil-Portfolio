@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Sujil-kumar.github.io/Sujil-Portfolio/static/css/main.d580daea.css",
-    "main.js": "/Sujil-kumar.github.io/Sujil-Portfolio/static/js/main.f97dd152.js",
-    "static/js/415.4d6acbeb.chunk.js": "/Sujil-kumar.github.io/Sujil-Portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Sujil-kumar.github.io/Sujil-Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/leaf.png": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/blog.png": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/sujil_cv.pdf": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/sujil_cv.111a931c6be95ab94a6b.pdf",
-    "static/media/chatify.png": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/Sujil-kumar.github.io/Sujil-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/Sujil-kumar.github.io/Sujil-Portfolio/index.html",
-    "main.d580daea.css.map": "/Sujil-kumar.github.io/Sujil-Portfolio/static/css/main.d580daea.css.map",
-    "main.f97dd152.js.map": "/Sujil-kumar.github.io/Sujil-Portfolio/static/js/main.f97dd152.js.map",
-    "415.4d6acbeb.chunk.js.map": "/Sujil-kumar.github.io/Sujil-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Sujil-kumar.github.io/Sujil-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Sujil-Portfolio/static/css/main.753afb59.css",
+    "main.js": "/Sujil-Portfolio/static/js/main.e08557f0.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Sujil-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Sujil-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/Sujil-Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Sujil-Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/blog.png": "/Sujil-Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Sujil-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Sujil-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sujil_cv.pdf": "/Sujil-Portfolio/static/media/sujil_cv.111a931c6be95ab94a6b.pdf",
+    "static/media/chatify.png": "/Sujil-Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/Sujil-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Sujil-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Sujil-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Sujil-Portfolio/index.html",
+    "main.753afb59.css.map": "/Sujil-Portfolio/static/css/main.753afb59.css.map",
+    "main.e08557f0.js.map": "/Sujil-Portfolio/static/js/main.e08557f0.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Sujil-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Sujil-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d580daea.css",
-    "static/js/main.f97dd152.js"
+    "static/css/main.753afb59.css",
+    "static/js/main.e08557f0.js"
   ]
 }
